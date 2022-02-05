@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chnk1988
+- 👋 Hi, I’m Nagendra Kumar
 - 👀 I’m interested in Front-End Design
 - 🌱 I’m currently learning Angular 11
 - 💞️ I’m looking to collaborate with you
